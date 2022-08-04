@@ -13,6 +13,15 @@
             "w": 1,
             "h": 1,
             "x": 0,
+            "y": 17,
+            "i": "TableOfContents",
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 1,
+            "h": 1,
+            "x": 0,
             "y": 12,
             "i": "$:/plugins/kookma/favorites/sidebar-tab",
             "moved": false,
@@ -96,6 +105,15 @@
             "x": 0,
             "y": 3,
             "i": "TheBrain",
+            "moved": false,
+            "static": false
+        },
+        {
+            "w": 1,
+            "h": 1,
+            "x": 0,
+            "y": 18,
+            "i": "TiddlyWiki教程（起点）",
             "moved": false,
             "static": false
         }
