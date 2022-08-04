@@ -1,0 +1,14 @@
+created: 20220611114409999
+creator: bianyeyu@gmail.com
+modified: 20220804074029111
+modifier: xingyeyu
+tags: 备份
+title: 怎么备份
+type: text/vnd.tiddlywiki
+
+* ~~最简单的保存：点右上角那个打着勾的圈~~
+* [[timimi插件]]备份（本地，仅限电脑）
+* [[TiddlyHost]]备份（在线，多端）
+* [[github]]备份（在线，多端）（推荐）
+* [[紧急备份]]（本地，全平台）
+

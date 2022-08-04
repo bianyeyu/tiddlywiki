@@ -1,0 +1,17 @@
+created: 20220612000305640
+creator: bianyeyu@gmail.com
+modified: 20220804074029109
+modifier: xingyeyu
+tags: 插件 语言
+title: 切换一下语言
+type: text/vnd.tiddlywiki
+
+* 点右上角那个长得跟设置一样的带突起圆环
+** 点plugins插件
+** 点get more plugins获取更多插件
+** 弹出的页面点languages语言
+** 往下滑，找到zh-Hans: Chinese (Simplified)，点install
+** close
+* 点右上边的tool工具
+** 往下拉，点language
+** 然后切过去，大功告成

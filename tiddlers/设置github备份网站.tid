@@ -1,0 +1,13 @@
+created: 20220612113756369
+modified: 20220804074029109
+modifier: xingyeyu
+tags: 备份 github 挖坑
+title: 设置github备份网站
+type: text/vnd.tiddlywiki
+
+* 在主页点repository
+** 点你刚刚创建的仓库名
+** 点右边的setting
+** 在Code and automation一栏里找到pages
+*** Source：branch选main，后面的选root，然后save
+** emmm我忘了我当初是怎么操作的，看官方说明吧https://docs.github.com/cn/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site（应该能看懂）

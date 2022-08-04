@@ -1,0 +1,30 @@
+created: 20220611113453128
+modified: 20220804074029110
+modifier: xingyeyu
+tags: 备份
+title: 为什么要备份
+type: text/vnd.tiddlywiki
+
+* 数据无价。这玩意儿丢了？忍不了！
+* 从官方文档搬来一个惨案：
+!!! 恐怖故事
+
+经常有 TiddlyWiki 的用户在讨论群组报告个人数据丢失的令人心碎的故事：
+
+> My entire TiddlyWiki has just been wiped out when Firefox crashed during saving a tiddly.
+
+https://groups.google.com/d/topic/tiddlywiki/oG2L7OXhUoI/discussion
+
+> Last time I used it was last night at home on my Windows 7 desktop, hit the check mark to stop editing my last entry, it then saves via TiddlyFox and I eject my USB drive. I came to work this morning, plugged in my USB, enter my TW5 password and it doesn't want to open after several attempts. I browse to my TW5 html file and notice that my file size is no longer 3MB.. instead it is 80KB. This leads me to believe I lost everything.
+
+https://groups.google.com/d/topic/tiddlywiki/SXStDJ0ntGI/discussion
+
+不要让它发生在你身上！
+
+!! 使用 TiddlyWiki 的第一条准则是：
+
+<p style="font-size:40pt;line-height:48pt;font-weight:700;color:red;">
+备份您的数据！
+</p>
+
+*  p.s. 一般以Google打头、不以.cn结尾的网站国内要挂梯子才能打开。

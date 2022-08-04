@@ -1,0 +1,17 @@
+created: 20220612104722523
+modified: 20220804074029111
+modifier: xingyeyu
+tags: github 挖坑
+title: 新建仓库
+type: text/vnd.tiddlywiki
+
+* 图文并茂版：https://docs.github.com/cn/repositories/creating-and-managing-repositories/creating-a-new-repository
+* 主页面，点右上角的＋号
+** 点new repository
+** Repository name仓库名，建议填wiki
+** Description描述可以不填
+** public和private公众或私人
+** Add a README file 不懂，反正我当初没勾
+** Add .gitignore和Choose a license 不懂，我当初没管
+** 点create repository
+* 大功告成

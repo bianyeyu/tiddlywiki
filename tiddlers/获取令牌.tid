@@ -1,0 +1,18 @@
+created: 20220612110156380
+modified: 20220804074029109
+modifier: xingyeyu
+tags: github 挖坑
+title: 获取令牌
+type: text/vnd.tiddlywiki
+
+* 图文并茂版：https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+* 点右上角绿白色头像，点settings
+** 最左端最下边找到Developer settings
+** 点开，点左边的personal access tokens
+** 点generate new token
+**输密码
+*** Note：是说这个令牌是干啥的，不会填个Wiki就行
+*** Expiration：什么时候过期，我不懂过期了会咋样，所以填了个no Expiration不过期
+*** Select scopes：看不懂，反正我自己全勾了
+*** 点generate token，结束
+** 令牌复制并保存好，丢了的话我自己也不会看

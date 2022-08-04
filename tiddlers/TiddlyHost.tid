@@ -1,0 +1,36 @@
+created: 20220611154103950
+creator: bianyeyu@gmail.com
+modified: 20220804074029113
+modifier: xingyeyu
+tags: 备份 挖坑
+title: TiddlyHost
+type: text/vnd.tiddlywiki
+
+* https://tiddlyhost.com/sites 注册账号
+** 可能需要挂梯，然后加载速度十分玄学
+** 如果不挂梯，好像''偶尔''也能进去
+* 点create site
+** choose a name
+*** 只能填小写字母和数字
+*** 填的东西会成为连入界面的网址
+**** 例：本页面当时填入了xingyeyu，所以在浏览器输入 https://xingyeyu.tiddlyhost.com 就可以进入本页面
+** Private and Hub listed
+*** private 为私人的，输入网址无法访问，必须先登录
+*** Hub listed 为公共的，无需登录输入网址可以直接看
+**** 如果要保存还是要登录
+** Description and Tags
+*** 可选项，可以不填，意为描述和标签
+** Advanced settings
+*** 等我自己搞懂了再写这儿
+*** 可以跳过，反正不影响用
+** 拿这个创建出来的网站是英文的，你可能需要[[切换一下语言]]
+* 备份
+** 如果你已经根据上面的办法创建了网址，点进去，就已经弄好了备份
+** 点右上角那个长得跟设置一样的带突起圆环
+*** 弹出一个页面名叫ControlPanel，点保存，再点下面的tiddlyspot保存模块
+*** 咱先投个底，如果你已经有了tiddlywiki页面，接下来我也不会操作，等着填坑
+*** 点工具，有一个导出所有条目，导出为JSON文件
+*** 打开上面教你操作出来的网址，点工具，点导入，在预览那块选文本（原始），然后导入即可
+* 注意
+**这个备份方式个人感觉不很靠谱，点完保存（右上角打勾的圈）一定要再三确认到底有没有存上
+** 检查办法：复制网址，新页面打开，看有没有存进去

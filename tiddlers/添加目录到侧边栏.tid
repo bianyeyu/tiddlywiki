@@ -1,0 +1,16 @@
+created: 20220612151753178
+modified: 20220804074029110
+modifier: xingyeyu
+tags: 挖坑
+title: 添加目录到侧边栏
+type: text/vnd.tiddlywiki
+
+# 创建一个名为 [[TableOfContents]] 的条目
+# 设其标签为 $:/tags/SideBar
+# 其内容设为 （等我学学怎么显示内容）
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'TableOfContents'>>
+</div>
+
+* 添加一个 caption 字段，其值为 目录
+* 添加一个 list-after 字段，其值为 $:/core/ui/SideBar/Open
